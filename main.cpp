@@ -4,7 +4,7 @@
 #include <iostream>
 #include <assert.h>
 
-#include "modularity.h"
+#include "Header1.h"
 void testNumberToPair(int pairNumber,
 	TelCoColorCoder::MajorColor expectedMajor,
 	TelCoColorCoder::MinorColor expectedMinor)
